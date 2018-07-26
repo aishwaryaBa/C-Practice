@@ -1,4 +1,4 @@
-- copy "lservrc" into the installed dir (e.g. C:\Programme\IBM\SPSS\Statistics\20)
+- co
 
 OR
 
